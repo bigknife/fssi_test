@@ -1,0 +1,22 @@
+{
+  "id" : "76e16b6872e2480887579316df687102",
+  "method" : "sendTransaction",
+  "params" : {
+    "type" : "Transaction.InvokeContract",
+    "impl" : {
+      "id" : "76e16b6872e2480887579316df687102",
+      "invoker" : "0281e3120890180ae38cda921a8223c17f4db284ff43c9c31fed54e0dd6356c042",
+      "name" : "com.test",
+      "version" : "0.0.1",
+      "function" : "function1",
+      "parameter" : [
+        "phi",
+        "0.5",
+        "100"
+      ],
+      "signature" : "MEUCIBQLmcpQhYHzk/86YX6uzNs57z/rNyg8go91/uYaXjOlAiEAzaGHRt4hxmpdrQEwGdhdQ3BD6aPclutDJZHAoHf5L88=",
+      "status" : "Init:76e16b6872e2480887579316df687102"
+    }
+  },
+  "jsonrpc" : "2.0"
+}

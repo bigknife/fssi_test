@@ -1,0 +1,10 @@
+{
+    "id" : "CB06C49FE92444CE960A0E06503D529A",
+    "privateKey" : "2c4f82b557f526b7097e51b9e121465862bf865f0ad5028e0ee36261238d466dd438644491bd60a9",
+    "publicKey" : "0338984c81ba98e807dee4b1ff2079a77609a7ad8765054b7510df278ef5250f71",
+    "iv" : "6961686c6c707a64",
+    "balance" : {
+        "amount" : 10000,
+        "unit" : "Sweet"
+    }
+}

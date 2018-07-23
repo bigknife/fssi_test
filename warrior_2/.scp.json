@@ -1,0 +1,11 @@
+{
+    "registeredQuorumSets": [
+	{
+	    "nodeID": "0281e3120890180ae38cda921a8223c17f4db284ff43c9c31fed54e0dd6356c042",
+	    "quorumSet": {
+		"threshold": 3,
+		"validators": ["03d3e70862e399fc94ac62edd111398aa48f61de3a20d1ace979c02b3d9075e08a", "0281e3120890180ae38cda921a8223c17f4db284ff43c9c31fed54e0dd6356c042", "0338984c81ba98e807dee4b1ff2079a77609a7ad8765054b7510df278ef5250f71", "02a107e6206824925ff218add39dcdff99092b426bc79b071eb311edb22be426db"]
+	    }
+	}
+    ]
+}
